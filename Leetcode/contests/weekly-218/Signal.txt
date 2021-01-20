@@ -1,0 +1,12 @@
+1. Signal was created  by(Brian Acton) the creators of Whatsapp itself.After the merger with FaceBook the founders resigned and founded a separate company called Signal because they had issues regarding Facebook Privacy policy.
+
+2.Signal does not store your messages or any information about your calls on its servers. 
+
+3. Signal also makes it clear “cannot decrypt or otherwise access the content of your messages or calls.” Unlike whatsapp signal meesages cant be decrypted even if the phone is rooted.
+
+4.The app makes it clear that it does not “sell, rent or monetise your personal data or content in any way – ever.” Unlike whatsapp which will eventually share user data to FaceBook for advestisers.
+
+5.NO SCRRENSHOT FEATURE -  After enabling the feature, no one can take the screenshot of that chat during chatting. This makes it clear that your chat here is completely secure.
+
+7.Power in the hands of the user- 
+"If you do create a group, everyone is not automatically added to the group. People are sent an invite and they have to accept the invite to join the Group, unlike WhatsApp where someone who has your contact can often add you straight to a group. And unless you change the setting on WhatsApp, everyone can directly add to you a group".
