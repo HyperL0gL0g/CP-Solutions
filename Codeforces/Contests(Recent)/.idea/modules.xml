@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/C698.iml" filepath="$PROJECT_DIR$/C698.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contests(Recent).iml" filepath="$PROJECT_DIR$/Contests(Recent).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contests(Recent)698.iml" filepath="$PROJECT_DIR$/Contests(Recent)698.iml" />
     </modules>
   </component>
 </project>
