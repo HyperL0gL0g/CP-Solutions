@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atcoder/Atcoder.iml" filepath="$PROJECT_DIR$/Atcoder/Atcoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BS.io/BS.io.iml" filepath="$PROJECT_DIR$/BS.io/BS.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Contests(Recent)/CF102/CF102.iml" filepath="$PROJECT_DIR$/Codeforces/Contests(Recent)/CF102/CF102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CP-Solutions.iml" filepath="$PROJECT_DIR$/CP-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Codeforces.iml" filepath="$PROJECT_DIR$/Codeforces/Codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Contest-686.iml" filepath="$PROJECT_DIR$/Codeforces/Contest-686.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Contests(Recent)/Contests(Recent).iml" filepath="$PROJECT_DIR$/Codeforces/Contests(Recent)/Contests(Recent).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/DP/DP.iml" filepath="$PROJECT_DIR$/Leetcode/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/EDU103/EDU103.iml" filepath="$PROJECT_DIR$/Codeforces/EDU103/EDU103.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GOOGLE COMPETITIONS/GOOGLE COMPETITIONS.iml" filepath="$PROJECT_DIR$/GOOGLE COMPETITIONS/GOOGLE COMPETITIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BS.io/contests/contests.iml" filepath="$PROJECT_DIR$/BS.io/contests/contests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/contests/contests1.iml" filepath="$PROJECT_DIR$/Leetcode/contests/contests1.iml" />
+    </modules>
+  </component>
+</project>
